@@ -1,0 +1,1 @@
+Copy the code and paste it in the python IDE then save the .py file.
